@@ -1,3 +1,4 @@
 ## CSharp Intro Problems
 
-Complete the Okapi and Vowel Shifter problems and commit your changes to Github.
+Gavan Quimby
+Using Else Ifs , I was able to complete the assignemnt. 
